@@ -1,2 +1,3 @@
 # saritapeter123.github.io
-6112020 class activity
+
+For this homework assignment we were instructed to refactor the code and clean it up. 
